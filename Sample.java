@@ -2,6 +2,6 @@
 
 class Sample{
     public static void main(String[] args) {
-        System.out.println("Helloo0,wworld!"); 
+        System.out.println("Helloo,wworld!"); 
     }
 }
